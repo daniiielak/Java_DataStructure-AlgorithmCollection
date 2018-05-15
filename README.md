@@ -13,7 +13,7 @@ The program showcases code to create a binary search tree non-linear data struct
    public void preOrderTraversal(BSTNode startNode)
    public void postOrderTraversal(BSTNode startNode)
    public int countNodes(BSTNode startNode)
-   public int height(BSTNode startNode()
+   public int height(BSTNode startNode)
    </pre>
 
 
