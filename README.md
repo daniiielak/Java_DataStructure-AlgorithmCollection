@@ -18,6 +18,16 @@ The program showcases code to create a binary search tree non-linear data struct
 
 
 ## McCarthyMedicalCenterGUI_JavaQueue
+This program represents a patient registration form GUI for McCarthy's Medical Centre that allows customers to register with their patient input. The system then assigns them a number in the queue and processes patients step by step. The Patient form uses the functionality of the abstract data type Queue in an ArrayList, developed in Java.
+
+  <pre>
+  public int size()
+  public boolean isEmpty()
+  public void enqueue(Object name)
+  public Object dequeue()
+  public String front()
+  public String displayAll()
+  </pre>
 
 
 ## MusicPlayer_JavaDoublyLinkedList
