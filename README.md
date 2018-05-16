@@ -78,6 +78,16 @@ The objective is to develop a software development request board form GUI that a
   </pre>
 
 
+## StudentList_JavaBubbleSort
+The objective is to develop a program to sort an ArrayList of Countries according to the Alphabet. The program utilises two different Bubble Sort Algorithms and was developed in Java.
+
+<pre>
+public void swap(int position1, int position2)
+public void bubbleSort()
+public void simpleBubbleSort()
+</pre>
+
+
 ## TrainStackAppGUI_JavaStack
 The objective is to develop train stack application GUI that allows the user to add a maximum of five wagons, loading different type of products, at the end of the train. The application uses the functionality of the abstract data type Stack in an ArrayList:
 
