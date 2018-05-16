@@ -15,12 +15,13 @@ public class BubbleSortApp {
         // creating ArrayList list
         BubbleSortCode<String> list = new BubbleSortCode<String>();
         
-        list.add("United States");
-        list.add("Netherlads");
-        list.add("France");
-        list.add("Austria");
-        list.add("Ireland");
-        list.add("Denmark");
+        list.add("Ulrike");
+        list.add("Nadine");
+        list.add("Felix");
+        list.add("Anna");
+        list.add("Leila");
+        list.add("Daniela");
+        list.add("Romain");
         
         // print before sorting wiht bubbleSort()
         System.out.println("The current elements are in the list: " + list.toString());

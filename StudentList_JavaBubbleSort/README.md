@@ -1,7 +1,7 @@
 # StudentList_JavaBubbleSort
 
 ## Objective
-The objective is to develop a program to sort an ArrayList of Countries according to the Alphabet. The program utilises two different Bubble Sort Algorithms and was developed in Java. 
+The objective is to develop a program to sort an ArrayList of Students according to the Alphabet. The program utilises two different Bubble Sort Algorithms and was developed in Java.
 
 ## Methods:
   <pre>

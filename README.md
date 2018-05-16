@@ -16,6 +16,13 @@ The program showcases code to create a binary search tree non-linear data struct
    public int height(BSTNode startNode)
    </pre>
 
+##CountryList_JavaInsertionSort
+The objective is to develop a program to sort an ArrayList of Countries according to the Alphabet. The program utilises Insertion Sort Technique and was developed in Java.
+
+  <pre>
+  public void insertionSort()
+  </pre>
+
 
 ## FlightRoutes_JavaDijkstraAlgorithm
 The objective is to develop a flight route calculator that allows the user to ask for the single shortest path between a source airport and a destination airport (eg.: Flight from DUB - VIE). The application was implemented by using the principles of the Dijkstra Algorithm as well as ADTs ArrayList, HashMaps, HashSets and LinkedLists.
