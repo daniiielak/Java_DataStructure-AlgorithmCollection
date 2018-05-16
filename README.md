@@ -17,6 +17,23 @@ The program showcases code to create a binary search tree non-linear data struct
    </pre>
 
 
+## FlightRoutes_JavaDijkstraAlgorithm
+The objective is to develop a flight route calculator that allows the user to ask for the single shortest path between a source airport and a destination airport (eg.: Flight from DUB - VIE). The application was implemented by using the principles of the Dijkstra Algorithm as well as ADTs ArrayList, HashMaps, HashSets and LinkedLists.
+
+   <pre>
+   private boolean isVisited(Vertex airport)
+   private Vertex getMinimum(Set<Vertex> airports)
+   private int getShortestRoute(Vertex destinationAirport)
+   private int getDistance(Vertex airport, Vertex destinationAirport)
+   public List<Vertex> getNeighbourAirports(Vertex newAirport)
+   public void findShortestRoute(Vertex newAirport)
+   public void runDijkstra(Vertex sourceAirport)
+   public LinkedList<Vertex> getFinalRoute(Vertex destination)
+   private void addRoute(String routeID, int sourceLocNo, int destLocNo, int miles)
+   private void letsDoThis()
+   </pre>
+
+
 ## McCarthyMedicalCenterGUI_JavaQueue
 This program represents a patient registration form GUI for McCarthy's Medical Centre that allows customers to register with their patient input. The system then assigns them a number in the queue and processes patients step by step. The Patient form uses the functionality of the abstract data type Queue in an ArrayList, developed in Java. Available functionalities:
 
