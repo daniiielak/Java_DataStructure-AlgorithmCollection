@@ -16,7 +16,7 @@ The program showcases code to create a binary search tree non-linear data struct
    public int height(BSTNode startNode)
    </pre>
 
-##CountryList_JavaInsertionSort
+## CountryList_JavaInsertionSort
 The objective is to develop a program to sort an ArrayList of Countries according to the Alphabet. The program utilises Insertion Sort Technique and was developed in Java.
 
   <pre>
