@@ -16,13 +16,6 @@ The program showcases code to create a binary search tree non-linear data struct
    public int height(BSTNode startNode)
    </pre>
 
-## CountryList_JavaInsertionSort
-The objective is to develop a program to sort an ArrayList of Countries according to the Alphabet. The program utilises Insertion Sort Technique and was developed in Java.
-
-  <pre>
-  public void insertionSort()
-  </pre>
-
 
 ## FlightRoutes_JavaDijkstraAlgorithm
 The objective is to develop a flight route calculator that allows the user to ask for the single shortest path between a source airport and a destination airport (eg.: Flight from DUB - VIE). The application was implemented by using the principles of the Dijkstra Algorithm as well as ADTs ArrayList, HashMaps, HashSets and LinkedLists.
@@ -85,14 +78,15 @@ The objective is to develop a software development request board form GUI that a
   </pre>
 
 
-## StudentList_JavaBubbleSort
-The objective is to develop a program to sort an ArrayList of Countries according to the Alphabet. The program utilises two different Bubble Sort Algorithms and was developed in Java.
+## StudentList_JavaSortingAlgorithms
+The objective is to develop a program to sort an ArrayList of Students according to the Alphabet based on different sorting algorithms. The program utilises two different Bubble Sort Algorithms and Insertion Sort and was developed in Java.
 
-<pre>
-public void swap(int position1, int position2)
-public void bubbleSort()
-public void simpleBubbleSort()
-</pre>
+  <pre>
+  public void swap(int position1, int position2)
+  public void bubbleSort()
+  public void simpleBubbleSort()
+  public void insertionSort()
+  </pre>
 
 
 ## TrainStackAppGUI_JavaStack
